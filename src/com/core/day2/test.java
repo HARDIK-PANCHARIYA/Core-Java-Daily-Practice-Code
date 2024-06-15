@@ -4,7 +4,7 @@ public class test {
 	
 	public static void main(String[] args) {
 		
-		int A = 20;
+		int A = 30;
 		int B = 20;
 		
 		if(A>0 && B>0) {
@@ -15,10 +15,10 @@ public class test {
 			System.out.println("B is Greator");
 		
 		else if(A==B)
-			System.out.println("Both are same ");
+			System.out.println("Both Age are same");
 		}
 		else if(A<0 || B<0)
-			System.out.println("Age cant be negative");
+			System.out.println("Age can't be negative");
 		
 		
 	}
