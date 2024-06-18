@@ -17,6 +17,9 @@ public class Datatype {
 		System.out.println(i+"\n");
 		
 		System.out.println("---long (64 bit)--Range (-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807)---");
+		long l=93684784837598574l;
+		System.out.println(l+"\n");
+		
 			
 	}
 
