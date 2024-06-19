@@ -21,6 +21,28 @@ public class Datatype {
 		long l=93684784837598574l;
 		System.out.println(l+"\n");
 		
+		System.out.println("---float (32 bit)--Range (6-7 significant decimal digits)-----");
+		System.out.println("IMP----- Always out (f) at the end of float");
+		float f=3.7656387f;
+		System.out.println(f+"\n");
+		
+		System.out.println("----double (64 bit)---Range (15 significant decimal digits)-----");
+		double d=11.11937897478959;
+		System.out.println(d+"\n");
+		
+		System.out.println("----char (16 bit)-----");
+		char c='@';
+		System.out.println(c+"\n");
+		
+		System.out.println("------String------------");
+		String S="Hardik Panchariya";
+		System.out.println(S+"\n");
+		
+		
+		System.out.println("---boolean---- (true or false)-----");
+		boolean bl=true;
+		System.out.println(bl+"\n");
+				
 		
 		
 			
