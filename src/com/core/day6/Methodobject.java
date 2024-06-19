@@ -2,6 +2,7 @@ package com.core.day6;
 
 public class Methodobject {
 	
+	//Define method
 	double Calculateareaofsquare(double s){
 		double sq=(s*s);
 		return sq;
