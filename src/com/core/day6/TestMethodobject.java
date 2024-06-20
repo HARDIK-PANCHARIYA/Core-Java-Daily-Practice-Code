@@ -4,10 +4,13 @@ public class TestMethodobject {
 	
 	public static void main(String args[]) {
 		
+		//Object Creation
 		Methodobject obj=new Methodobject();
 		
-		double sq=obj.Calculateareaofsquare(4);
-		System.out.println("Area of Square = "+sq);
+		//obj calls a method 
+		
+		//void method 
+		obj.Calculateareaofsquare(4);
 		
 		double rc=obj.Calculateareaofrectangle(2,3);
 		System.out.println("Area of Rectangle = "+rc);
@@ -17,6 +20,10 @@ public class TestMethodobject {
 		
 		double cr=obj.Calculateareaofcircle(3);
 		System.out.println("Area of Circle = "+cr);
+		
+		double sp=obj.Claculateareaofsphere(3);
+		System.out.println("Area of sphere = "+sp);
+				
 	}
 
 }

@@ -1,11 +1,12 @@
 package com.core.day6;
 
+
+
 public class Methodobject {
 	
 	//Define method
-	double Calculateareaofsquare(double s){
-		double sq=(s*s);
-		return sq;
+	void Calculateareaofsquare(int s){
+		System.out.println("Area of Square = "+(s*s));
 	}
 		
 	double Calculateareaofrectangle(double l , double b) {
@@ -19,7 +20,12 @@ public class Methodobject {
 	
 	double Calculateareaofcircle(double r) {
 		double cr=((3.14)*r*r);
-		return (cr);
+		return cr;
+	}
+	
+	double Claculateareaofsphere(double r) {
+		double  sq=(4*(3.14)*(r*r));
+		return sq;
 	}
 	
 
