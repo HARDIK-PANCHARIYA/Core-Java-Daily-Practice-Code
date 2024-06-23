@@ -2,7 +2,7 @@ package com.core.day9;
 
 public class Arithmeticoperators {
 	
-	void Arithmeticoperators(float a, float b) {
+	void Arithmeticoperator(float a, float b) {
 		
 		float add = a+b;
 		float sub = a-b;

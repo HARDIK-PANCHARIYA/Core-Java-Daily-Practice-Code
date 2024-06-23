@@ -6,7 +6,7 @@ public class Arithmeticoperatorstest {
 		
 		Arithmeticoperators ar1 = new Arithmeticoperators();
 		
-		ar1.Arithmeticoperators(10f, 20f);
+		ar1.Arithmeticoperator(10f, 20f);
 	}
 
 }
