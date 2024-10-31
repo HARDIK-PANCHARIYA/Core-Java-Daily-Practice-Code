@@ -1,5 +1,7 @@
 
-In this repository, I am regularly adding Java practice programs and examples to solidify my understanding of Core Java. It includes examples of fundamental concepts, as well as more advanced topics that are essential for building a strong foundation in Java.
+# Core Java Daily Practice Code
+
+This repository contains my daily practice code covering a wide range of Core Java topics. The goal of this repository is to serve as a personal reference and learning resource for various foundational and advanced concepts in Java.
 
 ## Topics Covered
 
