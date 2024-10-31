@@ -1,4 +1,3 @@
-## About
 
 In this repository, I am regularly adding Java practice programs and examples to solidify my understanding of Core Java. It includes examples of fundamental concepts, as well as more advanced topics that are essential for building a strong foundation in Java.
 
@@ -26,18 +25,6 @@ In this repository, I am regularly adding Java practice programs and examples to
   - Streams API
   - Functional Interfaces
   - Optional Class
-- **Miscellaneous Topics**
-  - JDBC (Java Database Connectivity)
-  - Reflection API
-  - Annotations
-
-*(More topics will be added as I continue practicing)*
-
-## Getting Started
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/HARDIK-PANCHARIYA/Core-Java-Daily-Practice-Code.git
 
 
 
